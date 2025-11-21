@@ -1,21 +1,57 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Samuel Idakwo</h1>
-<h3 align="center">I'm a Frontend Web Developer passionate about building clean, responsive, and user-friendly web applications. I enjoy learning new technologies, improving my coding skills, and exploring how tech can solve real-world problems.</h3>
+# 👋 Hello! I'm Samuel Idakwo (mildsam)
 
-- 🌱 I’m currently learning **ReactJS**
+### 💻 Frontend Developer | Product & Design Thinker
 
-- 📫 How to reach me **samthemajestic@gmail.com**
+I am a passionate and results-driven **Frontend Developer** based in Nigeria. With **1+ years of experience**, I specialize in crafting stunning, responsive, and user-friendly websites. My focus is bridging the gap between design and engineering, turning complex concepts into seamless digital realities.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/idakwosamuel/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/idakwosamuel/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+---
+
+## 🛠️ My Technical Stack
+
+I utilize modern frameworks and tools to build robust applications, with expertise spanning front-end development, design thinking, and foundational backend knowledge.
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Core Frontend** | **HTML5**, **CSS3**, **JavaScript**, **React** |
+| **Styling & Frameworks** | **Tailwind CSS**, Bootstrap, UI/UX Design |
+| **Backend & Data** | Python, MySQL |
+| **Development Workflow**| Git, Problem Solving (95% proficiency) |
+
+---
+
+## 🚀 Highlighted Projects
+
+My portfolio showcases hands-on experience in complex Single Page Applications (SPAs), E-commerce logic, and even Machine Learning integration.
+
+| Project | Description | Key Tech |
+| :--- | :--- | :--- |
+| **Lumina E-Commerce Platform** | A modern, responsive SPA featuring a functional shopping cart, product filtering, and simulated checkout flow (built with Vanilla JS for state management). | Vanilla JS, Tailwind CSS, SPA |
+| **Phishing Detection System** | An applied Machine Learning model built with Python/ML that analyzes URL features to predict malicious phishing attempts in real-time. | Python/ML, Flask, Scikit-learn |
+| **Nexus Analytics Dashboard** | A functional SPA dashboard with user authentication, real-time KPI simulation, SVG charting, and client-side data filtering. | Tailwind CSS, JavaScript, SVG Charting |
+
+---
+
+## 💡 What I Offer
+
+I am available for freelance work and new opportunities in:
+
+* **Frontend Web Development:** Building fast, secure, and responsive UIs with React and modern CSS frameworks.
+* **UI/UX & Graphic Design:** Creating visually intuitive designs that enhance user engagement.
+* **Website Maintenance:** Proactive updates, security checks, and technical support.
+
+---
+
+## 🌐 Get In Touch
+
+| Detail | Information |
+| :--- | :--- |
+| **Portfolio** | [Visit my Portfolio for a complete view](https://github.com/mildsam/index.html) (Based on the uploaded file) |
+| **Email** | 📫 Samthemajestic@gmail.com |
+| **LinkedIn** | [Connect with me on LinkedIn](https://www.linkedin.com/in/idakwosamuel) |
+| **Ask Me About** | React, Tailwind CSS, or translating designs into code. |
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mildsam&show_icons=true&theme=vue-dark&hide_title=true&hide_border=true&count_private=true" alt="mildsam's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mildsam&layout=compact&theme=vue-dark&hide_title=true&hide_border=true" alt="mildsam's Top Languages" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mildsam&show_icons=true&locale=en&layout=compact" alt="mildsam" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mildsam&show_icons=true&locale=en" alt="mildsam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mildsam&" alt="mildsam" /></p>
