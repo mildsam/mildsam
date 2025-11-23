@@ -14,8 +14,7 @@ I utilize modern frameworks and tools to build robust applications, with experti
 | :--- | :--- |
 | **Core Frontend** | **HTML5**, **CSS3**, **JavaScript**, **React** |
 | **Styling & Frameworks** | **Tailwind CSS**, Bootstrap, UI/UX Design |
-| **Backend & Data** | Python, MySQL |
-| **Development Workflow**| Git, Problem Solving (95% proficiency) |
+| **Development Workflow**| Git, Problem Solving  |
 
 ---
 
