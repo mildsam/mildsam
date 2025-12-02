@@ -44,7 +44,7 @@ I am available for freelance work and new opportunities in:
 
 | Detail | Information |
 | :--- | :--- |
-| **Portfolio** | [Visit my Portfolio for a complete view](https://github.com/mildsam/index.html) (Based on the uploaded file) |
+| **Portfolio** | [Visit my Portfolio for a complete view](https://mildsam.github.io/Portfolio/) |
 | **Email** | 📫 Samthemajestic@gmail.com |
 | **LinkedIn** | [Connect with me on LinkedIn](https://www.linkedin.com/in/idakwosamuel) |
 | **Ask Me About** | React, Tailwind CSS, or translating designs into code. |
