@@ -1,12 +1,12 @@
-# 👋 Hello! I'm Samuel Idakwo (mildsam)
+# Hello! I'm Samuel Idakwo (mildsam)
 
-### 💻 Frontend Developer | Product & Design Thinker
+### Frontend Developer | Product & Design Thinker
 
 I am a passionate and results-driven **Frontend Developer** based in Nigeria. With **1+ years of experience**, I specialize in crafting stunning, responsive, and user-friendly websites. My focus is bridging the gap between design and engineering, turning complex concepts into seamless digital realities.
 
 ---
 
-## 🛠️ My Technical Stack
+## My Technical Stack
 
 I utilize modern frameworks and tools to build robust applications, with expertise spanning front-end development, design thinking, and foundational backend knowledge.
 
@@ -18,7 +18,7 @@ I utilize modern frameworks and tools to build robust applications, with experti
 
 ---
 
-## 🚀 Highlighted Projects
+## Highlighted Projects
 
 My portfolio showcases hands-on experience in complex Single Page Applications (SPAs), E-commerce logic, and even Machine Learning integration.
 
@@ -30,7 +30,7 @@ My portfolio showcases hands-on experience in complex Single Page Applications (
 
 ---
 
-## 💡 What I Offer
+## What I Offer
 
 I am available for freelance work and new opportunities in:
 
@@ -40,7 +40,7 @@ I am available for freelance work and new opportunities in:
 
 ---
 
-## 🌐 Get In Touch
+## Get In Touch
 
 | Detail | Information |
 | :--- | :--- |
