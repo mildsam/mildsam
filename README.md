@@ -136,7 +136,7 @@ JavaScript • Tailwind CSS • SVG
 # 📫 Let's Connect
 
 🌐 **Portfolio**  
-https://mildsam.github.io/Portfolio/
+https://samuel-idakwo.vercel.app
 
 💼 **LinkedIn**  
 https://www.linkedin.com/in/idakwosamuel
